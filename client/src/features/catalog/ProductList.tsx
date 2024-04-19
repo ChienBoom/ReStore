@@ -1,11 +1,4 @@
-import {
-  Avatar,
-  Grid,
-  List,
-  ListItem,
-  ListItemAvatar,
-  ListItemText,
-} from "@mui/material";
+import { Grid } from "@mui/material";
 import ProductCard from "./ProductCard";
 
 export default function ProductList(props: any) {
